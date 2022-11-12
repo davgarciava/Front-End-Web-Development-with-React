@@ -8,7 +8,7 @@ class Menu extends Component {
 
     render() {
         return(
-            "HTML"
+            <div></div>
         );
     }
 }
